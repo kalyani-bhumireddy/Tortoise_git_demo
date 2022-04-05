@@ -8,3 +8,6 @@
 6- fetching the data from remote origin
 7- pull operation
 8- merge 
+9- Stashing
+10- Undoing local changes
+12- Operations on branches
